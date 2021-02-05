@@ -32,6 +32,7 @@
    if you need change player from VLC to MPC, use REM begin of line for comment line (not use line), and remove rem before %MPC% 
    
    >rem %VLC% --meta-title=streamlink kino.ts
+   
    >%MPC% video.ts
    
    if you need remove video begin/after download/play, uncomment line (remove REM from begin on line), like that
