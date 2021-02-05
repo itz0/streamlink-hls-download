@@ -39,8 +39,9 @@
    
    >del video.ts
   
-   also you may copy this command (full line) and add it as second line, after @echo off, to delete unnecessary video before downloading a new one.. 
+   also you may copy this command "del video.ts" (full line) and add it as second line of BAT file, after @echo off, to delete unnecessary video before downloading a new one..
 
+**Please note that unless you rename or delete the downloaded video file, the script will not be able to download the new video, so after downloading the video.ts file you need to rename or delete the file before starting the script again..**
 
 
 ## How to use:
