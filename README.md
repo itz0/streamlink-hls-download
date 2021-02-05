@@ -1,5 +1,5 @@
 # streamlink-hls-download
-### This solution was made to quickly and easily allow you to download any HLS stream to your computer with or without socks 5 proxy, it only consists of a command line script BAT file run from under Windows, this script is used in its work by the package Streamlink https://streamlink.github.io/ perfect for this job
+### This solution was made to quickly and easily allow you to download any HLS stream to your computer with or without socks 5 proxy, it only consists of a command line script BAT file run from under Windows, this script is used in its work by the package Streamlink https://streamlink.github.io/ perfect for this
 
 ## Installation:
 1. Download and install Streamlink with this link https://github.com/streamlink/streamlink/releases/latest  latest version file on this moment is streamlink-2.0.0.exe
@@ -38,7 +38,7 @@
 
 ## How to use:
 
-Go to your web site with stream video, for example https://tubitv.com/ , choice and play video, check quality setting sd-hd if need, after click on HLS addon icon and COPY full HLS stream link, like this:
+Go to your web site with stream video, for example https://tubitv.com , choice and play video, check quality setting sd-hd if need, after click on HLS addon icon and COPY full HLS stream link, like this:
 
 https://cloudfront.tubi.video/f1978eab-f2f1-485b-98a9-5725152f7598/tefhmve6/stream.m3u8
 
