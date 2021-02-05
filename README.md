@@ -45,10 +45,10 @@
 
 ## How to use:
 
-Go to your web site with stream video, for example https://tubitv.com , choice and play video, check quality setting sd-hd if need, after click on HLS addon icon and COPY full HLS stream link, like this:
+Go to your favorite site where you watch any of your movies and TV shows, for example https://tubitv.com , select video you want and press play, select your desired video quality if available (sd-hd), then click on the "HLS add-on" icon you installed (in point 4) and copy full HLS stream link, like this:
 
 https://cloudfront.tubi.video/f1978eab-f2f1-485b-98a9-5725152f7598/tefhmve6/stream.m3u8
 
 Run with double click by mouse Streamlink.bat file, then right-click by mouse you need paste HLS stream link to window and push enter key, after wait until the video is loaded on your local pc, depending on what you need, after downloading the file, you can immediately launch the player to watch the video and delete the file immediately after viewing.
 
-
+# be happy!
