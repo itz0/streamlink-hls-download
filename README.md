@@ -18,6 +18,7 @@
 6. Edit BAT file according to your task - change your system path's, use or not socks 5 proxy and etc.
 
    >set VLC="C:\Program Files\VideoLAN\VLC\vlc.exe"
+   
    >set MPC="C:\Program Files (x86)\K-Lite Codec Pack\MPC-HC64\mpc-hc64.exe"
 
    if you need to use socks 5 proxy server add to streamlink command this option: --https-proxy "socks5://127.0.0.1:1080", like that
