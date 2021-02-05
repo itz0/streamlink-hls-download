@@ -17,26 +17,27 @@
 5. Download BAT script file from this project
 6. Edit BAT file according to your task - change your system path's, use or not socks 5 proxy and etc.
 
-   set VLC="C:\Program Files\VideoLAN\VLC\vlc.exe"
-   
-   set MPC="C:\Program Files (x86)\K-Lite Codec Pack\MPC-HC64\mpc-hc64.exe"
+   >set VLC="C:\Program Files\VideoLAN\VLC\vlc.exe"
+   >set MPC="C:\Program Files (x86)\K-Lite Codec Pack\MPC-HC64\mpc-hc64.exe"
 
-   if you need to use socks 5 proxy add to command this:  --https-proxy "socks5://127.0.0.1:1080", like that
+   if you need to use socks 5 proxy server add to streamlink command this option: --https-proxy "socks5://127.0.0.1:1080", like that
    
-   streamlink -o video.ts --https-proxy "socks5://127.0.0.1:1080" --hls-segment-threads 10 hls://%yturl:&=^&% best
+   >streamlink -o video.ts --https-proxy "socks5://127.0.0.1:1080" --hls-segment-threads 10 hls://%yturl:&=^&% best
 
-   if need play video after download uncomment line (remove REM from begin on line), like that
+   if you need play video after download uncomment line (remove REM from begin on line), like that
    
-   %VLC% --meta-title=streamlink kino.ts
+   >%VLC% --meta-title=streamlink kino.ts
 
-   if need change player from VLC to MPC, use REM begin of line for comment line (not use line), and remove rem before %MPC% 
+   if you need change player from VLC to MPC, use REM begin of line for comment line (not use line), and remove rem before %MPC% 
    
-   rem %VLC% --meta-title=streamlink kino.ts
-   %MPC% video.ts
+   >rem %VLC% --meta-title=streamlink kino.ts
+   >%MPC% video.ts
    
-   if need remove video after download and play, uncomment line (remove REM from begin on line), like that
+   if you need remove video begin/after download/play, uncomment line (remove REM from begin on line), like that
    
-   del video.ts
+   >del video.ts
+  
+   also you may copy this command (full line) and add it as second line, after @echo off, to delete unnecessary video before downloading a new one.. 
 
 
 
