@@ -51,4 +51,4 @@ https://cloudfront.tubi.video/f1978eab-f2f1-485b-98a9-5725152f7598/tefhmve6/stre
 
 Run with double click by mouse Streamlink.bat file, then right-click by mouse you need paste HLS stream link to window and push enter key, after wait until the video is loaded on your local pc, depending on what you need, after downloading the file, you can immediately launch the player to watch the video and delete the file immediately after viewing.
 
-# be happy!
+## be happy =)
