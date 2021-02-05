@@ -45,7 +45,7 @@
 
 ## How to use:
 
-Go to your favorite site where you watch any of your movies and TV shows, for example https://tubitv.com , select video you want and press play, select your desired video quality if available (sd-hd), then click on the "HLS add-on" icon you installed (in point 4) and copy full HLS stream link, like this:
+Go to your favorite movie web site where you watch any of your movies and TV shows, for example https://tubitv.com , select video you want and press play, select your desired video quality if available (sd-hd), then click on the "HLS add-on" icon you installed (in point 4) and copy full HLS stream link, like this:
 
 https://cloudfront.tubi.video/f1978eab-f2f1-485b-98a9-5725152f7598/tefhmve6/stream.m3u8
 
