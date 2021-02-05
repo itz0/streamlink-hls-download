@@ -27,21 +27,21 @@
 
    if you need play video after download uncomment line (remove REM from begin on line), like that
    
-   >%VLC% --meta-title=streamlink kino.ts
+   >%VLC% --meta-title=streamlink video.ts
 
    if you need change player from VLC to MPC, use REM begin of line for comment line (not use line), and remove rem before %MPC% 
    
-   >rem %VLC% --meta-title=streamlink kino.ts
+   >rem %VLC% --meta-title=streamlink video.ts
    
    >%MPC% video.ts
    
-   if you need remove video begin/after download/play, uncomment line (remove REM from begin on line), like that
+   if you need remove video before/after download/play, uncomment line (remove REM from begin on line), like that
    
    >del video.ts
   
-   also you may copy this command "del video.ts" (full line) and add it as second line of BAT file, after @echo off, to delete unnecessary video before downloading a new one..
+   check second line of BAT file, after @echo off, uncomment line (remove REM from begin on line), to delete unnecessary video before downloading a new one..
 
-**Please note that unless you rename or delete the downloaded video file, the script will not be able to download the new video, so after downloading the video.ts file you need to rename or delete the file before starting the script again..**
+**Please note that unless you rename or delete the downloaded video.ts file, the script will not be able to download the new video, so after downloading the video.ts file you need to rename or delete the file before starting the script again..**
 
 
 ## How to use:
