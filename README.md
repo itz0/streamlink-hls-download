@@ -33,6 +33,10 @@
    
    rem %VLC% --meta-title=streamlink kino.ts
    %MPC% video.ts
+   
+   if need remove video after download and play, uncomment line (remove REM from begin on line), like that
+   
+   del video.ts
 
 
 
