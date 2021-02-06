@@ -1,5 +1,5 @@
 # streamlink-hls-download
-### This solution was made to quickly and easily allow you to download any HLS stream to your computer with or without socks 5 proxy, it only consists of a command line script BAT file run from under Windows, this script is used in its work by the package Streamlink https://streamlink.github.io/ perfect for this
+### This solution was made to quickly and easily allow you to download any HLS stream from m3u8 playlist to your computer with or without socks 5 proxy, it only consists of a command line script BAT file run from under Windows, this script is used in its work by the package Streamlink https://streamlink.github.io/ perfect for this
 
 ## Installation:
 1. Download and install Streamlink with this link https://github.com/streamlink/streamlink/releases/latest  latest version file on this moment is streamlink-2.0.0.exe
