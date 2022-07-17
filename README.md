@@ -23,7 +23,7 @@
 
 ## How to use:
 
-Go to your favorite movie web site where you watch any of your movies and TV shows, for example https://pluto.tv , select video you want and press play, select your desired video quality if available (sd-hd), then click on the "HLS add-on" icon you installed (in point 4) and copy full HLS stream link, like this for example (only one link-string per play):
+Go to your favorite movie web site where you watch any of your movies and TV shows, select video you want and press play, select your desired video quality if available (sd-hd), then click on the "HLS add-on" icon you installed (in point 4) and copy full HLS stream link, like this for example (only one link-string per play):
 
 https://bitdash-a.akamaihd.net/content/MI201109210084_1/m3u8s/f08e80da-bf1d-4e3d-8899-f0f6155f6efa.m3u8
 
