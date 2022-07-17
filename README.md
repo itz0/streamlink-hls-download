@@ -26,9 +26,13 @@
 Go to your favorite movie web site where you watch any of your movies and TV shows, for example https://pluto.tv , select video you want and press play, select your desired video quality if available (sd-hd), then click on the "HLS add-on" icon you installed (in point 4) and copy full HLS stream link, like this for example (only one link-string per play):
 
 https://bitdash-a.akamaihd.net/content/MI201109210084_1/m3u8s/f08e80da-bf1d-4e3d-8899-f0f6155f6efa.m3u8
+
 https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8
+
 https://mnmedias.api.telequebec.tv/m3u8/29880.m3u8
+
 http://184.72.239.149/vod/smil:BigBuckBunny.smil/playlist.m3u8
+
 http://www.streambox.fr/playlists/test_001/stream.m3u8
 
 Run with double click by mouse Streamlink.bat script file, then right-click by mouse you need paste HLS stream link to window and push enter key, after wait until the video is downloaded on your local pc hard drive, depending on what you need, after downloading the file, you can immediately launch the player to watch the video and etc.
